@@ -1,17 +1,13 @@
 {
   "name": "backenddevelopingtools",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A startup template of node express postgres stack for further development on alt linux distributive",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "server": "nodemon app.js",
-    "client": "npm run dev --prefix ../client",
-    "build": "npm run build --prefix ../client",
-    "buildpwa": "npm run buildpwa --prefix ../client",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
+    "server": "nodemon app.js"
   },
-  "author": "GeoTechTeam",
+  "author": "GeoTechTeam <alexeyzavvv@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "activedirectory": "^0.7.2",

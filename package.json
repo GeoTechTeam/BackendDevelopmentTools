@@ -7,7 +7,7 @@
     "start": "node app.js",
     "server": "nodemon app.js"
   },
-  "author": "GeoTechTeam <alexeyzavvv@gmail.com>",
+  "author": "GeoTechTeam <alexeyzavvv@gmail.com> ",
   "license": "MIT",
   "dependencies": {
     "activedirectory": "^0.7.2",

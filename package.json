@@ -1,6 +1,6 @@
 {
   "name": "backenddevelopingtools",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A startup template of node express postgres stack for further development on alt linux distributive",
   "main": "app.js",
   "scripts": {
@@ -10,23 +10,24 @@
   "author": "GeoTechTeam <alexeyzavvv@gmail.com> ",
   "license": "MIT",
   "dependencies": {
+    "@zurmokeeper/exceljs": "^4.4.7",
     "activedirectory": "^0.7.2",
-    "activedirectory2": "^2.1.0",
+    "activedirectory2": "^2.2.0",
     "bcrypt": "^5.1.1",
     "concurrently": "^7.6.0",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "exceljs": "^4.3.0",
-    "express": "^4.18.2",
-    "fast-xml-parser": "^4.1.3",
-    "fparser": "^2.0.2",
+    "express": "^4.19.2",
+    "fast-xml-parser": "^4.4.1",
+    "fparser": "^2.1.0",
     "gdal3.js": "^2.8.1",
-    "kerberos": "^2.0.1",
+    "kerberos": "^2.1.2",
     "multer": "^1.4.5-lts.1",
-    "nodemon": "^2.0.20",
-    "pg": "^8.8.0",
-    "pg-promise": "^11.5.2",
-    "pm2": "^5.3.0",
-    "winston": "^3.12.0"
+    "nodemon": "^2.0.22",
+    "pg": "^8.12.0",
+    "pg-promise": "^11.9.1",
+    "pm2": "^5.4.2",
+    "winston": "^3.14.2"
   }
 }

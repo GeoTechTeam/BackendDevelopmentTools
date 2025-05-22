@@ -1,6 +1,6 @@
 {
   "name": "backenddevelopingtools",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A startup template of node express postgres stack for further development on alt linux distributive",
   "main": "app.js",
   "scripts": {
